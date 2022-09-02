@@ -13,6 +13,8 @@ npm install gh-pages
 }
 npm run deploy
 
+https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/
+
 git status
 rm -rf .git
 
